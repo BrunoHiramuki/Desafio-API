@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hiram\\source\\repos\\Desafio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\desafio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\desafio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\appsettings.example.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|c:\\users\\hiram\\source\\repos\\desafio\\desafio\\models\\penaltie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7367EB13-C3AF-45E2-B02F-05D35A34AD37}|Desafio\\Desafio.csproj|solutionrelative:desafio\\models\\penaltie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Desafio\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\appsettings.Development.json",
+              "RelativeToolTip": "Desafio\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T23:09:58.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.example.json",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\appsettings.example.json",
+              "RelativeDocumentMoniker": "Desafio\\appsettings.example.json",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\appsettings.example.json",
+              "RelativeToolTip": "Desafio\\appsettings.example.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T23:09:48.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\appsettings.json",
+              "RelativeDocumentMoniker": "Desafio\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\appsettings.json",
+              "RelativeToolTip": "Desafio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T18:53:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Desafio\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Desafio\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:52:54.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Desafio.csproj",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Desafio.csproj",
+              "RelativeDocumentMoniker": "Desafio\\Desafio.csproj",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Desafio.csproj",
+              "RelativeToolTip": "Desafio\\Desafio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T19:49:49.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Desafio\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Desafio\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:26:48.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Desafio\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Services\\AccountService.cs",
+              "RelativeToolTip": "Desafio\\Services\\AccountService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:25:22.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Desafio\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Desafio\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:08:32.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\.gitignore",
+              "RelativeDocumentMoniker": "Desafio\\.gitignore",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\.gitignore",
+              "RelativeToolTip": "Desafio\\.gitignore",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-05T22:41:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Startup.cs",
+              "RelativeDocumentMoniker": "Desafio\\Startup.cs",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Startup.cs",
+              "RelativeToolTip": "Desafio\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:46:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio\\Program.cs",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Program.cs",
+              "RelativeToolTip": "Desafio\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:47:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Penaltie.cs",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Models\\Penaltie.cs",
+              "RelativeDocumentMoniker": "Desafio\\Models\\Penaltie.cs",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Models\\Penaltie.cs",
+              "RelativeToolTip": "Desafio\\Models\\Penaltie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:57:25.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Desafio\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Hiram\\source\\repos\\Desafio\\Desafio\\Models\\Account.cs",
+              "RelativeToolTip": "Desafio\\Models\\Account.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:49:11.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
