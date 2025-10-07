@@ -1,4 +1,6 @@
 using Desafio.Context;
+using Desafio.Repositories;
+using Desafio.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -25,8 +27,8 @@ namespace Desafio
                 options.UseSqlServer(Configuration.GetConnectionString("ConnectionConfig")));
             services.AddControllers();
 
-            services.AddScoped<Desafio.Repositories.AccountRepository>();
-            services.AddScoped<Desafio.Services.AccountService>();
+            services.AddScoped<IAccountRepository, AccountRepository>();
+            services.AddScoped<IAccountService, AccountService>();
 
             services.AddSwaggerGen(c =>
             {
@@ -49,7 +51,7 @@ namespace Desafio
                 app.UseSwaggerUI(c =>
                 {
                     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Desafio API v1");
-                    c.RoutePrefix = "swagger"; // Acesse em: /swagger
+                    c.RoutePrefix = "swagger"; 
                 });
             }
 

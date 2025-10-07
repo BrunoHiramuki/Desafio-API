@@ -1,11 +1,12 @@
 ﻿using Desafio.Context;
 using Desafio.Models;
+using Desafio.Repositories;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace Desafio.Repositories
 {
-    public class AccountRepository
+    public class AccountRepository : IAccountRepository
     {
         private readonly AppDbContext _context;
 
