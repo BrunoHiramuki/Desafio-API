@@ -24,7 +24,7 @@ namespace Desafio.Services
             TimeSpan days = account.PaymentDate - account.DueDate;
             int daysLate = days.Days > 0 ? days.Days : 0;
 
-            if(daysLate >= 0)
+            if(daysLate <= 0)
             {
                 account.DaysLate = 0;
                 _repository.AddAccount(account);
